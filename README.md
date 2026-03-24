@@ -1,39 +1,36 @@
 <h1 align="center">Hi 👋, I'm M. Bashar Sheikh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Agentic+AI+Engineer;AI+Automation+Specialist;Next.js+%7C+Python+Developer;Building+Intelligent+AI+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+AI+Engineer;Agentic+AI+Systems+Builder;Automation+Architect;Next.js+%7C+FastAPI+%7C+AI+Specialist;Building+Scalable+Intelligent+Products" />
 </p>
 
 <p align="center">
-🚀 Full Stack & Agentic AI Developer | Building Intelligent Systems & Automation Tools
+🚀 <b>AI Engineer focused on building real-world automation systems, AI agents, and scalable full-stack platforms</b>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-💡 I'm a **Full Stack & Agentic AI Developer** with **2–3 years of experience** building intelligent systems and scalable web applications.
+💡 I design and build **production-ready AI systems** that automate real-world business workflows.
 
-🔹 I specialize in:
+🔹 **Experience:** 2–3 Years
+🔹 **Focus:** AI Agents • Automation Systems • Scalable Architectures
 
-• AI Agents
-• AI Automation Systems
-• Full Stack Web Applications
-• API Development
+### 🎯 What I Actually Do:
 
-🔹 I work with modern technologies including **Next.js, Python, FastAPI, and AI Agent frameworks**.
+* Build **AI Employees (Automation Systems)**
+* Develop **RAG-based Intelligent Platforms**
+* Design **Event-Driven Microservices Architectures**
+* Create **End-to-End Full Stack Applications**
 
-🎯 Currently focused on:
+---
 
-* Building **AI-powered platforms**
-* Creating **automation workflows**
-* Developing **scalable full-stack products**
+# ⚡ What Makes Me Different
 
-🌍 Open to:
-
-• Remote Opportunities
-• Freelance Projects
-• Global Tech Collaborations
+✅ I don’t just build UI — I build **systems that think, automate, and scale**
+✅ I combine **AI + Backend + Cloud + Automation**
+✅ I build **production-ready architectures (not just demos)**
 
 ---
 
@@ -41,106 +38,143 @@
 
 ### 💻 Frontend
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-38B2AC?style=for-the-badge\&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge\&logo=tailwind-css)
 
 ### ⚙️ Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
 
 ### 🤖 AI & Automation
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-
-<img src="https://img.shields.io/badge/OpenAI-Agent%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Automation-Workflow%20Systems-blue?style=for-the-badge&logo=robotframework&logoColor=white"/>
-
-</p>
-
-### 🗄️ Databases
-
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-316192?style=for-the-badge\&logo=mongodb)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-AI-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Systems-purple?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge\&logo=n8n)
+![MCP](https://img.shields.io/badge/MCP-Protocol-black?style=for-the-badge)
 
 ---
 
 # 🚀 Featured Projects
 
-### 📚 24/7 AI Employee
+---
 
-AI-Employee who can handle: 
+## 🤖 AI Employee Vault (Production System)
 
-• Business Automation
-• Watsapp Automation
-• Gmail Automation
-• Linkedln Automation
+🚀 **A Cloud-Deployed AI Automation System running 24/7**
 
-Tech: `Python` `Claude code` `Obsidian` `MCP Servers`
+### 🔥 What It Does:
+
+* Automates **Facebook, Twitter, Gmail, WhatsApp, LinkedIn**
+* Integrates **Odoo ERP (CRM, Sales, Invoicing)**
+* Uses **AI for content generation + approval workflows**
+* Includes **scheduler, orchestrator, and monitoring system**
+
+### 🧠 Why It’s Powerful:
+
+* Real **multi-service architecture**
+* **Human-in-the-loop AI system**
+* Runs **24/7 on cloud (Digital Ocean)**
+* Complete **business automation pipeline**
+
+### ⚙️ Tech:
+
+`Python` `FastAPI` `PM2` `Docker` `Odoo` `Claude AI` `Cloud Deployment`
 
 ---
 
-### 🛒 Full Stack E-Commerce Platform
+## 🧠 AI Learning Platform (RAG + Personalization + Translation)
 
-Features:
+🎯 **AI-powered education system with personalization engine**
 
-• Product listings
-• Checkout system
-• Secure authentication
-• Modern UI/UX
+### 🔥 Features:
 
-Tech: `Next.js` `React` `Tailwind` `NextAuth` `Sanity`
+* RAG Chatbot with **vector search (Qdrant)**
+* AI-based **content personalization**
+* Multi-language **translation system**
+* JWT-based **auth system (Next.js + BetterAuth)**
 
----
+### 🧠 Architecture:
 
-### 📚 AI Research Reads
+* **Frontend:** Docusaurus + React
+* **Auth:** Next.js + Neon DB
+* **Backend:** FastAPI + Gemini AI
 
-AI-powered interactive course platform with:
+### 💡 Highlight:
 
-• RAG chatbot
-• Authentication system
-• Multilingual translation
-• Vector search database
-
-Tech: `Python` `OpenAI` `Qdrant` `PostgreSQL`
+➡️ Personalized content based on **user learning profile**
 
 ---
 
+## ⚡ AI Todo Chatbot (Event-Driven Microservices)
 
-# 🌍 Languages
+🧠 **Advanced AI Task Manager with Real-Time System Design**
 
-• English — Fluent
-• Urdu — Native
-• German — Basic
+### 🔥 Features:
+
+* Natural language task creation
+* Event-driven architecture using **Kafka + Dapr**
+* Real-time updates via **WebSockets**
+* Recurring tasks + notifications system
+
+### 🧠 System Design:
+
+* Microservices architecture
+* Audit logs + event streaming
+* Kubernetes deployment ready
+
+### ⚙️ Tech:
+
+`Next.js` `FastAPI` `Kafka` `Dapr` `Docker` `Kubernetes`
+
+---
+
+## 💬 Multi-Industry AI Chatbot Widget
+
+🌍 **Embeddable AI chatbot for businesses**
+
+### 🔥 Capabilities:
+
+* Works in **Hotel, Real Estate, Healthcare**
+* Lead capture system (name, email, phone)
+* Human escalation
+* Firebase-based storage
+
+### 💡 Use Case:
+
+➡️ Companies can embed it via **<script> tag**
+
+---
+
+# 📊 Impact-Oriented Skills
+
+✔️ AI Automation Systems
+✔️ Agentic AI Workflows
+✔️ Full Stack Development
+✔️ Scalable System Design
+✔️ Cloud Deployment
+
+---
+
+# 🌍 Open To Work
+
+🚀 Remote Jobs | Freelance | AI Projects | SaaS Products
 
 ---
 
 # 📫 Contact
 
 📧 Email: [bashartc13@gmail.com](mailto:bashartc13@gmail.com)
-📍 Location: Karachi, Pakistan
+📍 Karachi, Pakistan
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Final Note
 
-I enjoy building **AI agents that automate real-world tasks and solve complex problems using modern technologies.**
+💡 I build systems that **replace manual work with AI automation**
 
----
-
-⭐ If you like my work, consider **starring my repositories**!
+⭐ If you like my work, consider starring my repositories!
