@@ -14,7 +14,7 @@
 
 💡 I design and build **production-ready AI systems** that automate real-world business workflows.
 
-🔹 **Experience:** 2–3 Years
+🔹 **Experience:** 3-4 Years
 🔹 **Focus:** AI Agents • Automation Systems • Scalable Architectures
 
 ### 🎯 What I Actually Do:
